@@ -1,0 +1,11 @@
+img {
+  box-shadow: 4px 4px 4px #999;
+}
+
+img {
+  filter: grayscale(100%);
+}
+
+img:hover {
+  filter: grayscale(0%);
+}
